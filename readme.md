@@ -1,6 +1,6 @@
-# ShopingKaro
+# BuyEase
 
-ShopingKaro is a web application developed in Node.js that allows users to easily browse and shop for various products. With a user-friendly interface and a variety of features, ShopingKaro aims to provide a seamless online shopping experience.
+BuyEase is a web application developed in Node.js that allows users to easily browse and shop for various products. With a user-friendly interface and a variety of features, BuyEase aims to provide a seamless online shopping experience.
 
 ## Table of Contents
 
